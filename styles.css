@@ -1,0 +1,23 @@
+*{
+    border-radius: 5px;
+}
+body {
+    padding:  20px ;
+    background-color: white;
+}
+.skeleton {
+    background-color: lightgray;
+    height: 40px;
+    width: 100%;
+}
+.item {
+    margin-top: 50px;
+}
+.img {
+    height: 200px;
+}
+.title {
+    background-color: yellow;
+    height: 45px;
+}
+
